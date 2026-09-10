@@ -1,5 +1,0 @@
-This is an example file for demonstrating Git workflow.
-
-Created as part of exam preparation for adding and modifying files.
-Changes to be committed:
-  new file: example.txt
