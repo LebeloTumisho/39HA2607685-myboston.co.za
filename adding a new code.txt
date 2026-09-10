@@ -1,0 +1,6 @@
+"Add example file to demonstrate git add workflow"
+5a50cff message                                    ❌ Too vague
+c594be4 Remove subproject reference from repo     ✅ Good
+c9d30be Update README.md to clarify project       ✅ Good
+1fc0b9d Create git                                ❌ Unclear
+8e23572 Initial commit                            ✅ Good
