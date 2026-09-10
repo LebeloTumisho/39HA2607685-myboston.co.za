@@ -1,0 +1,19 @@
+Git file management process:
+
+1. Create or modify a file in the repository.
+2. Check the changes:
+   git status
+
+3. Add the file to the staging area:
+   git add filename
+
+   To add all changed files:
+   git add .
+
+4. Commit the staged changes:
+   git commit -m "Describe the changes"
+
+5. Upload the commit:
+   git push
+
+The command used to add files to the staging area is git add.
