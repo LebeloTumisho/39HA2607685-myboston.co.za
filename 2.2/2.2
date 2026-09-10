@@ -1,0 +1,29 @@
+Staging Changes in Git
+
+Staging changes in Git means selecting the changes that should be included in the next commit. These selected changes are placed in the staging area.
+
+The staging area is a step between the working directory and the Git repository. It allows developers to choose exactly which changes will be saved in the next commit.
+
+For example, a developer may modify five files but only want to commit changes from two files. The developer can stage only those two files.
+
+Staging is important because it:
+
+1. Allows developers to choose which changes will be committed.
+2. Prevents unfinished or unwanted changes from being committed.
+3. Keeps commits organised and focused on one task.
+4. Allows changes to be reviewed before committing.
+5. Makes commits easier for team members to understand.
+
+The command used to stage a file is:
+
+    git add filename
+
+For example:
+
+    git add 2.2/2.2
+
+After staging, the changes can be saved with:
+
+    git commit -m "Explain staging changes in Git"
+
+Therefore, staging gives developers control over what is saved in the project history and helps create clear, organised commits.
